@@ -9,7 +9,7 @@ A full-stack Note Management System web application built using the MERN stack (
 - Authentication – Secure login and logout functionality with token-based authentication.
 - Responsive Design – Styled with Bootstrap for mobile-friendly layouts.
 
-- **Tech Stack**
+ **Tech Stack**
 -  Frontend: React.js, Bootstrap, HTML, CSS, JavaScript
 - Backend: Node.js, Express.js
 - Database: MongoDB
